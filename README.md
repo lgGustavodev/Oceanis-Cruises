@@ -18,7 +18,6 @@ Pequeno projeto de exemplo com Bootstrap para demonstrar layout, componentes e i
 - Cards de depoimentos.
 - Accordion de benefícios.
 - Botão de scroll-to-top com comportamento suave.
-- Rodapé com link para README.
 
 ## Como rodar localmente
 
@@ -30,7 +29,7 @@ Pequeno projeto de exemplo com Bootstrap para demonstrar layout, componentes e i
 
 - index.html
 - css/
-  - style.css
+- style.css
 - script.js
 - imgs/
 - README.md
