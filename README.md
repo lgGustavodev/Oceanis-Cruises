@@ -2,6 +2,8 @@
 
 Pequeno projeto de exemplo com Bootstrap para demonstrar layout, componentes e interações básicas. Será expandido com novas páginas e funcionalidades para ficar mais próximo de um projeto real.
 
+https://lggustavodev.github.io/Oceanis-Cruises/
+
 ## Ferramentas principais
 
 - Bootstrap 5 (CSS + JS) — componentes responsivos (navbar, carousel, accordion, botões).
